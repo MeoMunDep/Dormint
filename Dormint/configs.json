@@ -1,1 +1,8 @@
-{ "limit": 100, "countdown": 300, "country_time": "en-US", "country": "US" }
+{
+    "limit": 100,
+    "countdown": 300,
+    "country_time": "en-US",
+    "country": "US",
+    "doTasks": true
+  }
+  
