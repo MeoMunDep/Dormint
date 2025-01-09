@@ -34,7 +34,8 @@ create_default_configs() {
   "countdown": 300,
   "country_time": "en-US",
   "country": "US",
-  "doTasks": true
+  "doTasks": true,
+  "delayEachAccount": [1, 81]
 }
 EOL
 }
