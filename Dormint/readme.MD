@@ -46,7 +46,8 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
   "countdown": 300,
   "country_time": "en-US",
   "country": "US",
-  "doTasks": true
+  "doTasks": true,
+  "delayEachAccount": [1, 81]
 }
 ```
 
